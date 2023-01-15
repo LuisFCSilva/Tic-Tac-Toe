@@ -43,7 +43,7 @@ function handleClick(element) {
     if (checkWin(currentClass)) {
         endGame(false);
     } else if (isDraw()) {
-
+        endGame(true);
     } else {
         swapTurns();
         setBoardHoverClass();

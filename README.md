@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A Tic-Tac-Tore game . :-P
+A Tic-Tac-Toe game . :-P
